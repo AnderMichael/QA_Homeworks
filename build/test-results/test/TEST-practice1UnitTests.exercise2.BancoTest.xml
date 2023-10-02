@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice1UnitTests.exercise2.BancoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-10-02T04:27:08" hostname="LAPTOP-V6TDORT5" time="0.11">
+  <properties/>
+  <testcase name="[1] 454566, A, Maximo a prestar 200000" classname="practice1UnitTests.exercise2.BancoTest" time="0.079"/>
+  <testcase name="[2] 999999, B, Maximo a prestar 100000" classname="practice1UnitTests.exercise2.BancoTest" time="0.003"/>
+  <testcase name="[3] 777777, C, No se puede prestar ningÃºn monto ALERTA!" classname="practice1UnitTests.exercise2.BancoTest" time="0.003"/>
+  <testcase name="[4] 111111, D, ERROR - CategorÃ­a inexistente!" classname="practice1UnitTests.exercise2.BancoTest" time="0.003"/>
+  <testcase name="[5] &quot;&quot;, &quot;&quot;, ERROR - CategorÃ­a inexistente!" classname="practice1UnitTests.exercise2.BancoTest" time="0.004"/>
+  <testcase name="verifyNull()" classname="practice1UnitTests.exercise2.BancoTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
