@@ -11,8 +11,7 @@ public class BancoTest {
     private static ASFIService service;
     private static Banco banco;
 
-
-   @BeforeAll
+    @BeforeAll
     public static void setValues() {
         service = Mockito.mock(ASFIService.class);
         banco = new Banco();
